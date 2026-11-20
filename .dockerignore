@@ -1,0 +1,6 @@
+.git
+notebook
+locust
+__pycache__
+data/*.db*
+models/archive

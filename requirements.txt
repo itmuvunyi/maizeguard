@@ -1,0 +1,11 @@
+# Use the SAME TensorFlow version that trained the model (check tf.__version__ in Colab).
+tensorflow-cpu>=2.16,<2.21
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+pillow>=10.0
+numpy
+scikit-learn
+pandas
+streamlit>=1.36
+requests

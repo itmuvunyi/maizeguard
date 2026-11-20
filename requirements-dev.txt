@@ -1,0 +1,5 @@
+locust>=2.24
+matplotlib
+seaborn
+jupyter
+kagglehub
