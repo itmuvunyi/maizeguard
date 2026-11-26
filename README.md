@@ -11,7 +11,7 @@
 
 ## Project description
 
-My Introduction to Machine Learning summative predicted which Rwandan farmers use improved seed. This project extends that use case to **image data**. Improved, disease-tolerant seed only pays off when farmers can spot disease early, so MaizeGuard classifies a photo of a maize leaf as **Blight, Common Rust, Gray Leaf Spot or Healthy** and gives short advice, including when to choose resistant seed next season.
+This project extends that use case to **image data**. Improved, disease-tolerant seed only pays off when farmers can spot disease early, so MaizeGuard classifies a photo of a maize leaf as **Blight, Common Rust, Gray Leaf Spot or Healthy** and gives short advice, including when to choose resistant seed next season.
 
 ### Repository structure
 
