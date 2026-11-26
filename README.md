@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Video demo (YouTube)** | `<ADD YOUTUBE LINK HERE>` |
+| **Video demo (YouTube)** | `https://youtu.be/O2XliMmvzcs` |
 | **GitHub repository** | https://github.com/itmuvunyi/maizeguard |
 | **Live app (UI)** | http://13.63.166.158:8501 |
 | **API docs (Swagger)** | http://13.63.166.158/docs |
@@ -19,6 +19,7 @@ This project extends that use case to **image data**. Improved, disease-tolerant
 maizeguard/
 ├── README.md
 ├── notebook/maizeguard.ipynb
+├──.streamlit/config.toml
 ├── src/            preprocessing.py  model.py  prediction.py  database.py  insights.py
 ├── api/main.py
 ├── ui/app.py
@@ -93,7 +94,7 @@ docker compose up -d
 docker compose ps
 ```
 The 4 GB swap file protects the server from running out of memory when several TensorFlow containers run at once.
-4. Open `http://<EC2-PUBLIC-IP>:8501` (UI) and `http://<EC2-PUBLIC-IP>/docs` (API). Stop the instance when you are not demonstrating to avoid charges.
+4. Open `http://13.63.166.158:8501` (UI) and `http://13.63.166.158/docs` (API). Stop the instance when you are not demonstrating to avoid charges.
 
 ## API endpoints
 
