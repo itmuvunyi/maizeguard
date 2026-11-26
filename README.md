@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Video demo (YouTube)** | `https://youtu.be/O2XliMmvzcs` |
+| **Video demo (YouTube)** | https://youtu.be/O2XliMmvzcs |
 | **GitHub repository** | https://github.com/itmuvunyi/maizeguard |
 | **Live app (UI)** | http://13.63.166.158:8501 |
 | **API docs (Swagger)** | http://13.63.166.158/docs |
